@@ -1,0 +1,46 @@
+{
+  "uuid": "04db8175-fc27-4ecd-b2fb-6c6d0e0c0ec9-tc-0-1001",
+  "name": "MobileAppAutomation.SampleTestClass.FirstTestMethod",
+  "children": [
+    "e061a71a-423c-41c9-8607-0045a6f87b3a-tr-0-1002"
+  ],
+  "befores": [
+    {
+      "name": "setUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1589007530884,
+      "stop": 1589007530884
+    }
+  ],
+  "afters": [
+    {
+      "name": "tearDown",
+      "status": "none",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "It's not possible to get status of OneTimeTearDown",
+        "trace": "See Allure.NUnit wiki"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1589007530887,
+      "stop": 1589007530887
+    }
+  ],
+  "links": [],
+  "start": 1589007530598,
+  "stop": 1589007531001
+}

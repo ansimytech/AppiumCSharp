@@ -1,0 +1,80 @@
+{
+  "uuid": "e061a71a-423c-41c9-8607-0045a6f87b3a-tr-0-1002",
+  "historyId": "MobileAppAutomation.SampleTestClass.FirstTestMethod",
+  "fullName": "MobileAppAutomation.SampleTestClass.FirstTestMethod",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-PF1K5EL7"
+    },
+    {
+      "name": "testClass",
+      "value": "MobileAppAutomation.SampleTestClass"
+    },
+    {
+      "name": "testMethod",
+      "value": "FirstTestMethod"
+    },
+    {
+      "name": "package",
+      "value": "MobileAppAutomation.SampleTestClass"
+    },
+    {
+      "name": "tag",
+      "value": "CriticalRegression"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "subSuite",
+      "value": "Sample App"
+    },
+    {
+      "name": "suite",
+      "value": "Onboarding"
+    }
+  ],
+  "links": [],
+  "name": "FirstTestMethod",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "View the RecyclerView Content\n",
+  "steps": [
+    {
+      "name": "FirstTestMethod",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "bcab0607d60342a78cb14e51c569a684-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1589007530606,
+      "stop": 1589007530895
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1589007530603,
+  "stop": 1589007530903
+}
